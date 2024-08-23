@@ -1,3 +1,12 @@
+# Aiden's First CS193 Homework
+
+## Favorite things about CS193
+
+- Not early in the morning
+- Only 1 hour
+- Useful for other CS classes
+- Light work
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
